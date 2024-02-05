@@ -63,3 +63,4 @@ function recuperarChute() {
     let recuperarInput = document.querySelector('input').value;
     return recuperarInput;
 }
+
