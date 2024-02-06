@@ -4,7 +4,6 @@ let listaDeNumerosSorteados = [];
 let numeroSecreto = geradorNumeroSecreto();
 let tentativas = 1;
 
-
 function verificarChute() {
     console.log(`numero sorteado é ${numeroSecreto}`);
 
